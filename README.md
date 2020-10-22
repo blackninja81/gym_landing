@@ -1,2 +1,1 @@
-# gym_landing
-gym homepage
+This is a gym landing page developed by tailwind
